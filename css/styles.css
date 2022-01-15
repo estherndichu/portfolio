@@ -1,6 +1,16 @@
 body{
     background-color: aliceblue;
+    background-image: url(../images/checkered.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+
 }
+
 #navbar{
     float: right;
+}
+
+.jumbotron{
+    background-color: transparent;
 }
