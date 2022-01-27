@@ -1,16 +1,21 @@
 body{
-    background-color: aliceblue;
-    background-image: url(../images/checkered.jpg);
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: contain;
-
+    background-color: rgb(218, 212, 212);
+               
 }
 
+#about{
+    padding: 5%;
+
+}
 #navbar{
     float: right;
 }
 
 .jumbotron{
     background-color: transparent;
+}
+
+#contact{
+    text-align: center;
+    text-decoration: aliceblue;
 }
