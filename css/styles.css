@@ -28,6 +28,9 @@ body{
     color: blanchedalmond;
 }
 
+.card-deck{
+    height: 80vh;
+}
 .jumbotron{
     background-color: transparent;
 }
