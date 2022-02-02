@@ -2,6 +2,9 @@ body{
     background-color: #ffffff;
                
 }
+#navbar{
+    float: right;
+}
 
 #particles-js {
     position: relative;
@@ -11,10 +14,18 @@ body{
 
 #about{
     padding: 5%;
+    position: absolute;
+    top: 15%;
+    font-weight: 700;
 
 }
-#navbar{
-    float: right;
+#portfolio{
+    position: relative;
+    top: 15%;
+    background-color: black;
+}
+#portfolio h3{
+    color: blanchedalmond;
 }
 
 .jumbotron{
